@@ -43,7 +43,7 @@ git clone https://github.com/truman-zyx/Kaggle-House-Prices
 
 ## 问题分析流程
 
-<img src="/image/Mind mapping.png" align="center" width="900px"/>
+<img src="/image/House Prices.png" align="center" width="900px"/>
 
 ----------
 
