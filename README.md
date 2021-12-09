@@ -7,6 +7,7 @@
 * 开发环境:Python 3.86
 <img src="/image/rank.png" align="center" width="900px"/>
 <img src="/image/score_of_this_project.png" align="center" width="900px"/>
+
 ----------
 
 ## **项目下载**
@@ -16,14 +17,17 @@ git clone https://github.com/truman-zyx/Kaggle-House-Prices
 ```
 
 ----------
+
 ## **比赛地址**
 * 打开Kaggle官网进入Competitions搜索或者直接点击这里https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview
 
 ----------
+
 ## **比赛介绍**
 <img src="/image/main_page.png" align="center" width="900px"/>
 
 ----------
+
 ## **数据集下载**
 * 在官网项目界面即可下载数据集，共有四个，分别是提交示例，数据描述文件，训练集和测试集。
 * 数据集说明：
@@ -34,6 +38,7 @@ git clone https://github.com/truman-zyx/Kaggle-House-Prices
 | sample_submission.csv | 竞赛最终提交示例                                          |
 |       train.csv       | 1460行房屋数据，包含79个特征，1个房屋ID数据以及一个房屋售价数据 |
 |       test.csv        | 1459行房屋数据，包含79个特征以及1个房屋ID数据                |
+
 ----------
 
 ## 问题分析流程
@@ -54,6 +59,8 @@ git clone https://github.com/truman-zyx/Kaggle-House-Prices
 * 特征工程
 * 建模及评价
 * 整体方法
+
+----------
 
 ## 模型得分
 * 单个模型：
