@@ -12,7 +12,7 @@
 ## **项目下载**
 
 ```
-git clone https://github.com/truman-zyx/Kaggle-House-Prices- 
+git clone https://github.com/truman-zyx/Kaggle-House-Prices 
 ```
 
 ----------
