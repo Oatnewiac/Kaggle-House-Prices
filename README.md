@@ -1,5 +1,5 @@
 # Kaggle-House-Prices-
-这是一个关于Kaggle入门竞赛House Prices 房价预测的项目，尝试最高排名为Top3%
+关于Kaggle入门竞赛House Prices 房价预测的比赛，尝试最高排名为Top3%
 
 ## **总结**
 * 这是一篇关于Kaggle入门竞赛 **House Prices - Advanced Regression Techniques**的分享。通过探索性分析，数据预处理，特征工程以及模型构建综合分析房屋相关特征数据，通过机器学习建立并选择最优模型，对test数据集中房价进行预测。
